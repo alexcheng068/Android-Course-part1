@@ -1,2 +1,2 @@
 # umd-Programming-Mobile-Applications-for-Android-Handheld-Systems
-labs from Android course in Coursera
+labs from Android course in Coursera-part 1
